@@ -1,1 +1,1 @@
-Some diffs
+Das Ziel der ordnerstruktur ist LLM generierten/recherchierten Inhalt voneinander zu trennen und gleichzeitig den Hebel, welchen in der Informationsorganisation und Strukturierung durch diese Technologie zu nutzen
