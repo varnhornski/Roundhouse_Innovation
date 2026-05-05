@@ -46,5 +46,14 @@ Schreibe eine Geschichte zu dem obigen Stichpunkten
  #### Google Keyword search
  ToDo Keyword generierung basierend auf Kontext, nach denen potenzielle Kunden auf suchmaschinen Suchen würden
 
+ #####
+ - Keywords:
+    - Online Ersteinschätzung (+ Rechts/Rechtsart)
+    - Kostenlose Ersteinschätzung 
+
 Prompt:
  - Generate possible Keywords, what people would search for in Searchengines
+
+ #### Nischenbezogene Contentproduktion zu Rechtsfragen
+ - Branchen und ihre unterschiedlichen Mengentreiber bei Rechtsanliegen ausfindig machen.
+ - Bspw. Arbeitsrecht

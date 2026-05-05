@@ -1,4 +1,6 @@
 #### Competition
+- Chatgpt Foundationsmodelle:
+    - Manchmal interagiert man mit schlechten Modellen, die dann nicht die bestmögliche Antwort geben, sondern als "fast" oder mit geringerer Genaugigkeit "served" werden. 
 
 ##### Online
 - jegliche Anbieter, welche Online die Rechtsfragen klären:
@@ -17,6 +19,11 @@
 
 ##### Offline
 - Kanzleien
+- Spezialanwälte.
+- Profektjuristen 
+
+##### Law as a Service
+- Unternehmen, welche das Recht direkt durchsetzen.
 
 
 
