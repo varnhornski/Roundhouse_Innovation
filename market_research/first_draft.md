@@ -57,3 +57,11 @@ Prompt:
  #### Nischenbezogene Contentproduktion zu Rechtsfragen
  - Branchen und ihre unterschiedlichen Mengentreiber bei Rechtsanliegen ausfindig machen.
  - Bspw. Arbeitsrecht
+
+ #### Martsegmente:
+ - Durchsetzen von Verbraucherrechten
+    - Direktes aufsetzen von Schreiben, für:
+        - Abokündigungen
+        - Kündigungsservice
+        - Datenlöschung
+        - Herausgabeansprüche persönliche Daten
